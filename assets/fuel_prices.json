@@ -1,0 +1,378 @@
+{
+    "data": [
+        {
+            "state": "Andaman Nicobar",
+            "lat": 12.270209051600068,
+            "long": 93.86238040460005,
+            "fuel_prices": {
+                "petrol_price": 82.46,
+                "diesel_price": 78.05,
+                "cng_price": 0.0,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Andhra Pradesh",
+            "lat": 15.785317600230838,
+            "long": 80.94163596353852,
+            "fuel_prices": {
+                "petrol_price": 109.63,
+                "diesel_price": 97.47,
+                "cng_price": 91.9,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Arunachal Pradesh",
+            "lat": 27.79972201815834,
+            "long": 94.95110908524869,
+            "fuel_prices": {
+                "petrol_price": 90.66,
+                "diesel_price": 80.21,
+                "cng_price": 0.0,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Assam",
+            "lat": 26.052561980593264,
+            "long": 92.64021061804506,
+            "fuel_prices": {
+                "petrol_price": 98.19,
+                "diesel_price": 89.42,
+                "cng_price": 87.13,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Bihar",
+            "lat": 25.73090056032139,
+            "long": 85.59436327192529,
+            "fuel_prices": {
+                "petrol_price": 105.42,
+                "diesel_price": 91.67,
+                "cng_price": 84.54,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Chandigarh",
+            "lat": 30.73565779184779,
+            "long": 76.77391648317847,
+            "fuel_prices": {
+                "petrol_price": 94.3,
+                "diesel_price": 82.45,
+                "cng_price": 92.0,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Chhattisgarh",
+            "lat": 20.876102012024706,
+            "long": 82.04844778307799,
+            "fuel_prices": {
+                "petrol_price": 99.44,
+                "diesel_price": 93.39,
+                "cng_price": 81.04,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Dadra Nagarhaveli",
+            "lat": 20.727704138108592,
+            "long": 70.98721981932127,
+            "fuel_prices": {
+                "petrol_price": 92.44,
+                "diesel_price": 87.94,
+                "cng_price": 83.0,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Delhi",
+            "lat": 28.63418906811885,
+            "long": 77.08775330867992,
+            "fuel_prices": {
+                "petrol_price": 94.77,
+                "diesel_price": 87.67,
+                "cng_price": 77.09,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Goa",
+            "lat": 15.396595775742282,
+            "long": 74.00845181687866,
+            "fuel_prices": {
+                "petrol_price": 96.71,
+                "diesel_price": 88.47,
+                "cng_price": 92.0,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Gujarat",
+            "lat": 22.432656568148136,
+            "long": 71.83894619650158,
+            "fuel_prices": {
+                "petrol_price": 94.97,
+                "diesel_price": 90.65,
+                "cng_price": 82.19,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Haryana",
+            "lat": 29.22672232422833,
+            "long": 76.23711002198908,
+            "fuel_prices": {
+                "petrol_price": 95.95,
+                "diesel_price": 88.4,
+                "cng_price": 88.72,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Himachal Pradesh",
+            "lat": 31.7414194740379,
+            "long": 77.29653194262451,
+            "fuel_prices": {
+                "petrol_price": 95.32,
+                "diesel_price": 87.36,
+                "cng_price": 93.0,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Jammu Kashmir",
+            "lat": 33.30946170542355,
+            "long": 75.01468247850693,
+            "fuel_prices": {
+                "petrol_price": 96.6,
+                "diesel_price": 83.43,
+                "cng_price": 98.0,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Jharkhand",
+            "lat": 23.715648652107465,
+            "long": 85.77934505849785,
+            "fuel_prices": {
+                "petrol_price": 97.86,
+                "diesel_price": 92.62,
+                "cng_price": 87.15,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Karnataka",
+            "lat": 14.823925021455382,
+            "long": 76.3777723548392,
+            "fuel_prices": {
+                "petrol_price": 102.92,
+                "diesel_price": 90.99,
+                "cng_price": 89.0,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Kerala",
+            "lat": 10.770978101925207,
+            "long": 76.22097423131045,
+            "fuel_prices": {
+                "petrol_price": 107.48,
+                "diesel_price": 96.38,
+                "cng_price": 88.0,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Madhya Pradesh",
+            "lat": 24.2036680782231,
+            "long": 78.28336554528563,
+            "fuel_prices": {
+                "petrol_price": 106.52,
+                "diesel_price": 91.89,
+                "cng_price": 88.6,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Maharashtra",
+            "lat": 19.1535675644882,
+            "long": 76.08960254812257,
+            "fuel_prices": {
+                "petrol_price": 103.54,
+                "diesel_price": 90.03,
+                "cng_price": 87.91,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Manipur",
+            "lat": 24.718722533603444,
+            "long": 93.69410032380588,
+            "fuel_prices": {
+                "petrol_price": 99.14,
+                "diesel_price": 85.21,
+                "cng_price": 0.0,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Meghalaya",
+            "lat": 25.620400282657318,
+            "long": 91.44929693557833,
+            "fuel_prices": {
+                "petrol_price": 96.33,
+                "diesel_price": 87.81,
+                "cng_price": 0.0,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Mizoram",
+            "lat": 23.380314489978026,
+            "long": 92.79990979782143,
+            "fuel_prices": {
+                "petrol_price": 99.26,
+                "diesel_price": 88.04,
+                "cng_price": 0.0,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Nagaland",
+            "lat": 26.024359766955516,
+            "long": 94.3503238802186,
+            "fuel_prices": {
+                "petrol_price": 97.74,
+                "diesel_price": 88.85,
+                "cng_price": 0.0,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Odisha",
+            "lat": 20.02141984229106,
+            "long": 83.88872941638951,
+            "fuel_prices": {
+                "petrol_price": 101.19,
+                "diesel_price": 92.77,
+                "cng_price": 87.26,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Pondicherry",
+            "lat": 12.082492525562735,
+            "long": 75.30094773973461,
+            "fuel_prices": {
+                "petrol_price": 96.26,
+                "diesel_price": 86.47,
+                "cng_price": 78.0,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Punjab",
+            "lat": 30.714877162061864,
+            "long": 75.64768015322244,
+            "fuel_prices": {
+                "petrol_price": 98.28,
+                "diesel_price": 88.09,
+                "cng_price": 87.58,
+                "electricity_price": 7.75
+            }
+        },
+        {
+            "state": "Rajasthan",
+            "lat": 26.102111553248864,
+            "long": 75.29337525505804,
+            "fuel_prices": {
+                "petrol_price": 104.99,
+                "diesel_price": 90.45,
+                "cng_price": 91.91,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Sikkim",
+            "lat": 27.54780108849743,
+            "long": 88.43452867774867,
+            "fuel_prices": {
+                "petrol_price": 103.3,
+                "diesel_price": 90.45,
+                "cng_price": 0.0,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Tamil Nadu",
+            "lat": 11.257427275784362,
+            "long": 78.42071442139269,
+            "fuel_prices": {
+                "petrol_price": 100.8,
+                "diesel_price": 92.39,
+                "cng_price": 91.5,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Telangana",
+            "lat": 18.014203482905437,
+            "long": 78.94837406503864,
+            "fuel_prices": {
+                "petrol_price": 107.46,
+                "diesel_price": 95.7,
+                "cng_price": 96.0,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Tripura",
+            "lat": 23.725721620123114,
+            "long": 91.78725670109174,
+            "fuel_prices": {
+                "petrol_price": 97.53,
+                "diesel_price": 86.55,
+                "cng_price": 0.0,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Uttarakhand",
+            "lat": 30.124185081807575,
+            "long": 79.21161271199372,
+            "fuel_prices": {
+                "petrol_price": 93.21,
+                "diesel_price": 88.03,
+                "cng_price": 98.0,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "Uttar Pradesh",
+            "lat": 26.349559403850414,
+            "long": 80.22112927841495,
+            "fuel_prices": {
+                "petrol_price": 94.72,
+                "diesel_price": 87.85,
+                "cng_price": 90.73,
+                "electricity_price": 0.0
+            }
+        },
+        {
+            "state": "West Bengal",
+            "lat": 24.197841448156154,
+            "long": 88.1547822336552,
+            "fuel_prices": {
+                "petrol_price": 105.41,
+                "diesel_price": 92.02,
+                "cng_price": 92.75,
+                "electricity_price": 0.0
+            }
+        }
+    ]
+}
